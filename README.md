@@ -1,5 +1,5 @@
 ###  
-![Logotipo do GitHub] (gui1-git.jpg)
+
 
 ##  Quem sou eu?
 
