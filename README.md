@@ -3,7 +3,7 @@
 
 ##  Quem sou eu?
 
-* 💻 Vendedor.
+* 💻 Analista de Sistemas.
 * 📊 Consultor de negócios.
 
 ##  Habilidades 👩‍💻
